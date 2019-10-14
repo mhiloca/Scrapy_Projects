@@ -8,7 +8,7 @@ class PostsSpider(scrapy.Spider):
     allowed_domains = ['techcrunch.com']
     start_urls = ['https://techcrunch.com/']
 
-    def star_requests(self):
+    def start_requests(self):
         yield scrapy.Request(
             url='https://techcrunch.com/',
             callback=self.parse,
