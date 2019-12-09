@@ -1,0 +1,2918 @@
+{
+  "explore_tabs": [
+    {
+      "tab_id": "experience_tab",
+      "tab_name": "experiences",
+      "pagination_metadata": {
+        "has_next_page": false,
+        "has_previous_page": false
+      },
+      "sections": [
+        {
+          "backend_search_id": "47e58b61-e846-4307-87b3-4800f2fc2210",
+          "display_type": "grid",
+          "experiments_metadata": [],
+          "result_type": "seo_breadcrumb",
+          "search_session_id": "7e3b41d5-958c-430b-9e66-4fc1dfa8af4e",
+          "section_id": "7e3b41d5-958c-430b-9e66-4fc1dfa8af4e",
+          "section_type_uid": "EXPERIENCES_BREADCRUMBS",
+          "title": "Comidas e bebidas",
+          "subtitle": "15 experiências",
+          "is_paginated": false,
+          "bankai_section_id": "1098",
+          "refinements": [],
+          "review_items": [],
+          "breadcrumbs": [
+            {
+              "link_text": "Florianópolis, Brazil",
+              "link_route": "/experiences",
+              "search_params": {
+                "params": [],
+                "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+                "query": "Florianópolis, Brazil",
+                "refinement_paths": [
+                  "/experiences"
+                ],
+                "refinement_path": "/experiences",
+                "tab_id": "experience_tab",
+                "reset_filters": false,
+                "reset_keys": []
+              }
+            },
+            {
+              "link_text": "Comidas e bebidas",
+              "link_route": "/experiences/KG/Tag:1685",
+              "search_params": {
+                "params": [],
+                "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+                "query": "Florianópolis, Brazil",
+                "refinement_paths": [
+                  "/experiences/KG/Tag:1685"
+                ],
+                "refinement_path": "/experiences/KG/Tag:1685",
+                "tab_id": "experience_tab",
+                "reset_filters": false,
+                "reset_keys": []
+              }
+            }
+          ],
+          "section_metadata": {
+            "is_mimicking_paginated": false,
+            "should_hide_items_from_map": false
+          },
+          "nearby_locations": [],
+          "section_component_type": "UNDEFINED",
+          "alternative_dates": [],
+          "is_context_variable_validation_failed": false
+        },
+        {
+          "backend_search_id": "47e58b61-e846-4307-87b3-4800f2fc2210",
+          "display_type": "grid",
+          "experiments_metadata": [],
+          "result_type": "experiences",
+          "search_session_id": "24577c9c-f926-4142-9792-417f9bc10962",
+          "section_id": "24577c9c-f926-4142-9792-417f9bc10962",
+          "section_type_uid": "PAGINATED_EXPERIENCES",
+          "is_paginated": true,
+          "bankai_section_id": "39",
+          "refinements": [],
+          "trip_templates": [
+            {
+              "action_kicker": "degustação de cerveja",
+              "base_price": 40.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brazil",
+              "display_text": "Tour & Degustação na Cervejaria Loop",
+              "id": 351734,
+              "is_social_good": false,
+              "kicker_text": "degustação de cerveja",
+              "lat": -27.545285618428178,
+              "lng": -48.78473861941213,
+              "picture": {
+                "id": 721997008,
+                "dominant_saturated_color": "#F2D3B8",
+                "large_ro": "https://a0.muscache.com/im/pictures/4ae5aed4-fc55-4930-87d0-b16bf94847ce.jpg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/4ae5aed4-fc55-4930-87d0-b16bf94847ce.jpg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYaOkQUGBwcEA+Tk5M3MzwGWmpUNCQr8+fnT1NbT1NYBq5JhBAD6Bvn8+PgIBBQWAda9nggDBQcGBeHk7BkZGMWMHLY2sUM6AAAAAElFTkSuQmCC",
+                "saturated_a11y_dark_color": "#A25C1E",
+                "scrim_color": "#222021",
+                "original_picture": "https://a0.muscache.com/pictures/4ae5aed4-fc55-4930-87d0-b16bf94847ce.jpg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/4ae5aed4-fc55-4930-87d0-b16bf94847ce.jpg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 721996866,
+                  "dominant_saturated_color": "#F3D4B9",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/3afc060a-3a72-42da-8f53-85c96da47406.jpg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/3afc060a-3a72-42da-8f53-85c96da47406.jpg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYaOkQUGBwcEA+Tk5M3MzwGWmpUNCQr8+fnT1NbT1NYBq5JhBAD6Bvn8+PgIBBQWAda9nggDBQcGBeHk7BkZGMWMHLY2sUM6AAAAAElFTkSuQmCC",
+                  "scrim_color": "#211F20",
+                  "poster": "https://a0.muscache.com/im/pictures/3afc060a-3a72-42da-8f53-85c96da47406.jpg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/3afc060a-3a72-42da-8f53-85c96da47406.jpg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/3afc060a-3a72-42da-8f53-85c96da47406.jpg?aki_policy=x_large",
+                  "sort_order": 2
+                }
+              ],
+              "primary_category": 9,
+              "product_type": 1,
+              "review_count": 8,
+              "star_rating": 4.5,
+              "tier_id": 0,
+              "title": "Tour & Degustação na Cervejaria Loop",
+              "availabilities": [],
+              "primary_category_name": "Lifestyle",
+              "display_rating": 4.63,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 670090053,
+                    "dominant_saturated_color": "#B56F07",
+                    "caption": "TapRoom & Beer",
+                    "picture": "https://a0.muscache.com/im/pictures/58558a95-9f6e-4385-acf1-7c900bd81800.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/58558a95-9f6e-4385-acf1-7c900bd81800.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AdHd5f///97f4AHEx8no5eXMxcABk4h7GRMJsra5Ab+kbf3368jX8gHGnU/g3dEmKj9Yxh+FkeyYxwAAAABJRU5ErkJggg==",
+                    "scrim_color": "#212818",
+                    "poster": "https://a0.muscache.com/im/pictures/58558a95-9f6e-4385-acf1-7c900bd81800.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/58558a95-9f6e-4385-acf1-7c900bd81800.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/58558a95-9f6e-4385-acf1-7c900bd81800.jpg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 670090054,
+                    "dominant_saturated_color": "#1E905F",
+                    "caption": "Local Barley Malt",
+                    "picture": "https://a0.muscache.com/im/pictures/a3b97537-8914-4c83-a637-56c9da01a535.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/a3b97537-8914-4c83-a637-56c9da01a535.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AdHPzuX89CAJEwHRy8W959UfDxkBpaCXwcvELSUsAZB5ZeLV0SU0QgF9X0UE9/IvR1yL3BfBYiy0jwAAAABJRU5ErkJggg==",
+                    "scrim_color": "#201815",
+                    "poster": "https://a0.muscache.com/im/pictures/a3b97537-8914-4c83-a637-56c9da01a535.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/a3b97537-8914-4c83-a637-56c9da01a535.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/a3b97537-8914-4c83-a637-56c9da01a535.jpg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 3
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 670090055,
+                    "dominant_saturated_color": "#C9DCED",
+                    "caption": "Hops Tasting",
+                    "picture": "https://a0.muscache.com/im/pictures/61cb08f5-f0d3-40ce-a96a-25d740ced520.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/61cb08f5-f0d3-40ce-a96a-25d740ced520.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNMjfRlFFbi52ZgrC9OZeQTZubgYWyoruD88eDGkx+McXHxmpwffvz4xhjo76ckK6XMeAkAXo8QWZkCmFYAAAAASUVORK5CYII=",
+                    "scrim_color": "#34271F",
+                    "poster": "https://a0.muscache.com/im/pictures/61cb08f5-f0d3-40ce-a96a-25d740ced520.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/61cb08f5-f0d3-40ce-a96a-25d740ced520.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/61cb08f5-f0d3-40ce-a96a-25d740ced520.jpg?aki_policy=x_large",
+                    "sort_order": 4
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Guilherme",
+                "has_profile_pic": false,
+                "id": 212532949,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "2 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$40",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$40/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "passeio de bar em bar",
+              "base_price": 85.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brazil",
+              "display_text": "Le BarTour com o Viajante Cervejeiro",
+              "id": 633044,
+              "is_social_good": false,
+              "kicker_text": "passeio de bar em bar",
+              "lat": -27.58731648038582,
+              "lng": -48.54571314512411,
+              "picture": {
+                "id": 686450143,
+                "dominant_saturated_color": "#E8BB8E",
+                "large_ro": "https://a0.muscache.com/im/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWNcUO7Fysx09PIreR2H3z9/MPZmuLBz8dy9++aPgJqYgStjurseFxvboStPWdhY2VmZAcnxEKx1hhuJAAAAAElFTkSuQmCC",
+                "saturated_a11y_dark_color": "#A06020",
+                "scrim_color": "#291C16",
+                "original_picture": "https://a0.muscache.com/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 686450143,
+                  "dominant_saturated_color": "#E8BB8E",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWNcUO7Fysx09PIreR2H3z9/MPZmuLBz8dy9++aPgJqYgStjurseFxvboStPWdhY2VmZAcnxEKx1hhuJAAAAAElFTkSuQmCC",
+                  "scrim_color": "#291C16",
+                  "poster": "https://a0.muscache.com/im/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/eab883ac-0357-4087-abd4-459fb1b42328.jpg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 7,
+              "product_type": 1,
+              "review_count": 6,
+              "star_rating": 5.0,
+              "tier_id": 0,
+              "title": "Le BarTour com o Viajante Cervejeiro",
+              "availabilities": [],
+              "primary_category_name": "Food & Drink",
+              "display_rating": 5.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 686450145,
+                    "dominant_saturated_color": "#BE791E",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/80c92f77-c42d-4d17-830f-1599acc9aa71.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/80c92f77-c42d-4d17-830f-1599acc9aa71.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AToiFCEaECcTCP359czk+QFbNx8IBgAFCAscDQO20OgBTS4XalYqorTe2+Tu+P4EcFESXai+H4QAAAAASUVORK5CYII=",
+                    "scrim_color": "#26150D",
+                    "poster": "https://a0.muscache.com/im/pictures/80c92f77-c42d-4d17-830f-1599acc9aa71.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/80c92f77-c42d-4d17-830f-1599acc9aa71.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/80c92f77-c42d-4d17-830f-1599acc9aa71.jpg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 686450148,
+                    "dominant_saturated_color": "#E6530A",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/1a6687d5-5fe8-4a84-a39f-d77f7c70a719.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/1a6687d5-5fe8-4a84-a39f-d77f7c70a719.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AXtjRQUJCff+CfD8BwHJsowHCQ329fDj9REBclhADQkGUujG0CxDAXtCGygjLh/sycEHHAFIJwvoDSoM7dscEgRS6BgmoO2oAAAAAABJRU5ErkJggg==",
+                    "scrim_color": "#22150F",
+                    "poster": "https://a0.muscache.com/im/pictures/1a6687d5-5fe8-4a84-a39f-d77f7c70a719.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/1a6687d5-5fe8-4a84-a39f-d77f7c70a719.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/1a6687d5-5fe8-4a84-a39f-d77f7c70a719.jpg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 690670447,
+                    "dominant_saturated_color": "#D22316",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/042c620f-1e08-4885-b34e-45a389f7c01c.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/042c620f-1e08-4885-b34e-45a389f7c01c.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWMsiXGWFePmYmP9/vPHD1ZJxnA7ZR9XKwZW9tNX330T0WJM9TYTEhRlunV974c/hiqyAHOVEKV/TamiAAAAAElFTkSuQmCC",
+                    "scrim_color": "#1D1111",
+                    "poster": "https://a0.muscache.com/im/pictures/042c620f-1e08-4885-b34e-45a389f7c01c.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/042c620f-1e08-4885-b34e-45a389f7c01c.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/042c620f-1e08-4885-b34e-45a389f7c01c.jpg?aki_policy=x_large",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Edson",
+                "has_profile_pic": false,
+                "id": 922310,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "3.5 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$85",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$85/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "degustação de café",
+              "base_price": 75.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Café com a melhor vista de Florianópolis",
+              "id": 1224493,
+              "is_social_good": false,
+              "kicker_text": "degustação de café",
+              "lat": -27.59522926810407,
+              "lng": -48.56824449201272,
+              "picture": {
+                "id": 922259820,
+                "dominant_saturated_color": "#787878",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg?aki_policy=large",
+                "preview_encoded_png": "",
+                "saturated_a11y_dark_color": "#787878",
+                "scrim_color": "",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 922259820,
+                  "dominant_saturated_color": "#787878",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg",
+                  "preview_encoded_png": "",
+                  "scrim_color": "",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/ca319351-7176-41cc-bd70-3b53cd24c1a6.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 7,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Café com a melhor vista de Florianópolis",
+              "availabilities": [],
+              "primary_category_name": "Food & Drink",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 919630820,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/c4e0b1f8-339b-461a-83a4-d04397255800.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1224493-media_library/original/c4e0b1f8-339b-461a-83a4-d04397255800.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/c4e0b1f8-339b-461a-83a4-d04397255800.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/c4e0b1f8-339b-461a-83a4-d04397255800.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/c4e0b1f8-339b-461a-83a4-d04397255800.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 919630826,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/218159f6-9fb5-49ad-89c2-e8c71963fbd6.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1224493-media_library/original/218159f6-9fb5-49ad-89c2-e8c71963fbd6.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/218159f6-9fb5-49ad-89c2-e8c71963fbd6.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/218159f6-9fb5-49ad-89c2-e8c71963fbd6.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/218159f6-9fb5-49ad-89c2-e8c71963fbd6.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 921514367,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/2aae489a-a40d-42ac-999a-c4712efc22fd.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1224493-media_library/original/2aae489a-a40d-42ac-999a-c4712efc22fd.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/2aae489a-a40d-42ac-999a-c4712efc22fd.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/2aae489a-a40d-42ac-999a-c4712efc22fd.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1224493-media_library/original/2aae489a-a40d-42ac-999a-c4712efc22fd.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Rafael",
+                "has_profile_pic": false,
+                "id": 99141490,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "2 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$75",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$75/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "jantar",
+              "base_price": 50.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brazil",
+              "display_text": "The Magic Lagoon of Multisensory Brunch",
+              "id": 1077628,
+              "is_social_good": false,
+              "kicker_text": "jantar",
+              "lat": -27.593875231757973,
+              "lng": -48.46862771186325,
+              "picture": {
+                "id": 834934946,
+                "dominant_saturated_color": "#9E7852",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWPk5OQU5OcVExZ89+kLDz8nY3lV9fePb/kYPv1l4WcTlWH0d3fWNbJg+/ORk+G3pKIKAFKtDsuMkFoDAAAAAElFTkSuQmCC",
+                "saturated_a11y_dark_color": "#8D6B49",
+                "scrim_color": "#0E0D0B",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 834934946,
+                  "dominant_saturated_color": "#9E7852",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWPk5OQU5OcVExZ89+kLDz8nY3lV9fePb/kYPv1l4WcTlWH0d3fWNbJg+/ORk+G3pKIKAFKtDsuMkFoDAAAAAElFTkSuQmCC",
+                  "scrim_color": "#0E0D0B",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/72bdb4e3-2fd3-45aa-b1bb-ad0697c5cee4.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 7,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "The Magic Lagoon of Multisensory Brunch",
+              "availabilities": [],
+              "primary_category_name": "Food & Drink",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 834934941,
+                    "dominant_saturated_color": "#BD9F7D",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/a557ee58-b371-4bc8-a248-ac011b425c76.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1077628-media_library/original/a557ee58-b371-4bc8-a248-ac011b425c76.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWOUlpU205UTEuBg1NZSDnQweP/tC6OPk4G9qfbv/wyM8cEWsuJCf/6zMXo46ijLyjx/9BIAQUIPYToAoloAAAAASUVORK5CYII=",
+                    "scrim_color": "#0F1314",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/a557ee58-b371-4bc8-a248-ac011b425c76.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/a557ee58-b371-4bc8-a248-ac011b425c76.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/a557ee58-b371-4bc8-a248-ac011b425c76.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 834934943,
+                    "dominant_saturated_color": "#F5F3DD",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/0fd05132-5a5a-48ad-9b11-1efcfd452eb0.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1077628-media_library/original/0fd05132-5a5a-48ad-9b11-1efcfd452eb0.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AU5OUfT39hoQEgFkUEwUIBHp5PEBTUg/JzISJgQJAV1pVhoECPLu9QGpmpCjq7QLBQO3UhGEkODM8gAAAABJRU5ErkJggg==",
+                    "scrim_color": "#232220",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/0fd05132-5a5a-48ad-9b11-1efcfd452eb0.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/0fd05132-5a5a-48ad-9b11-1efcfd452eb0.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/0fd05132-5a5a-48ad-9b11-1efcfd452eb0.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 834934948,
+                    "dominant_saturated_color": "#AB8A6D",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/8a891fdd-9ed3-48b1-ba86-ad6d264344a6.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1077628-media_library/original/8a891fdd-9ed3-48b1-ba86-ad6d264344a6.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AT02Kvf7A+nr8QkA9iknJQFnZ2ZBQkPq6OK8wcY/KRwBTVFTLiwvwL69SkJCAwYI8BAS2C00p6wAAAAASUVORK5CYII=",
+                    "scrim_color": "#0B0A08",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/8a891fdd-9ed3-48b1-ba86-ad6d264344a6.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/8a891fdd-9ed3-48b1-ba86-ad6d264344a6.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1077628-media_library/original/8a891fdd-9ed3-48b1-ba86-ad6d264344a6.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Claudia",
+                "has_profile_pic": false,
+                "id": 272759864,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "3 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$50",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$50/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "degustação de cerveja",
+              "base_price": 60.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brazil",
+              "display_text": "Degustação guiada de Cervejas Artesanais",
+              "id": 767204,
+              "is_social_good": false,
+              "kicker_text": "degustação de cerveja",
+              "lat": -26.919849528848086,
+              "lng": -49.06564651720664,
+              "picture": {
+                "id": 745900449,
+                "dominant_saturated_color": "#E4CEB8",
+                "large_ro": "https://a0.muscache.com/im/pictures/2032bf55-56ec-491b-9ae2-855c02661ec9.jpg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/2032bf55-56ec-491b-9ae2-855c02661ec9.jpg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ATcpIUAwLPsQGAsIBtrb4wFjQi8mGyf/GxYSDg25vswBjmRFt8/k7fwBIxoc6PcEbGoRmGKO8j8AAAAASUVORK5CYII=",
+                "saturated_a11y_dark_color": "#946638",
+                "scrim_color": "#1E1A17",
+                "original_picture": "https://a0.muscache.com/pictures/2032bf55-56ec-491b-9ae2-855c02661ec9.jpg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/2032bf55-56ec-491b-9ae2-855c02661ec9.jpg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 745900386,
+                  "dominant_saturated_color": "#ECD9B8",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/c8b0b268-7097-4871-b558-358593e186eb.jpg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/c8b0b268-7097-4871-b558-358593e186eb.jpg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/ATosJTUvLfD9A+vp7gFkQzInJi4TJR+7uMYBelc9tM/jLy8t5u7+AUI1KOjw+GJaTcnN1gFoRTULFQ8MBwUcEgtamxjPp4RzoAAAAABJRU5ErkJggg==",
+                  "scrim_color": "#1E1A17",
+                  "poster": "https://a0.muscache.com/im/pictures/c8b0b268-7097-4871-b558-358593e186eb.jpg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/c8b0b268-7097-4871-b558-358593e186eb.jpg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/c8b0b268-7097-4871-b558-358593e186eb.jpg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 7,
+              "product_type": 1,
+              "review_count": 8,
+              "star_rating": 5.0,
+              "tier_id": 0,
+              "title": "Degustação guiada de Cervejas Artesanais",
+              "availabilities": [],
+              "primary_category_name": "Food & Drink",
+              "display_rating": 5.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 745900362,
+                    "dominant_saturated_color": "#DEB688",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/6b6cba34-b9a2-4e55-b4dc-d4772b92dd5a.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/6b6cba34-b9a2-4e55-b4dc-d4772b92dd5a.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWM00FT69vNfWnICo7ejxacvX030NBknFAbwcbF855Bn9HOzTfNQXrz2FKO3szU7898kRyUA4M0RnVb68foAAAAASUVORK5CYII=",
+                    "scrim_color": "#161513",
+                    "poster": "https://a0.muscache.com/im/pictures/6b6cba34-b9a2-4e55-b4dc-d4772b92dd5a.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/6b6cba34-b9a2-4e55-b4dc-d4772b92dd5a.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/6b6cba34-b9a2-4e55-b4dc-d4772b92dd5a.jpg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 745900365,
+                    "dominant_saturated_color": "#4F2E1B",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/7e008fab-61a0-4c87-a0e1-a139605387db.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/7e008fab-61a0-4c87-a0e1-a139605387db.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWO0tXUQFxe/8/Alo72dnSA32+9vnxlzg+zYmP9xcrIz1tVXnD+0T5yfndFXT4aNifH3f0YAm+MQFd6/+akAAAAASUVORK5CYII=",
+                    "scrim_color": "#262221",
+                    "poster": "https://a0.muscache.com/im/pictures/7e008fab-61a0-4c87-a0e1-a139605387db.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/7e008fab-61a0-4c87-a0e1-a139605387db.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/7e008fab-61a0-4c87-a0e1-a139605387db.jpg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 745900369,
+                    "dominant_saturated_color": "#A06736",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/79afe053-f3f4-443f-8bfe-9395c8fc396c.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/79afe053-f3f4-443f-8bfe-9395c8fc396c.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/ATAkJezx7u/z9hobHwEyKSQDAv8eGAve6PUBY0s+4entKBkJvtXnAVBCOSMlI9zY2/v88wFLLx0FCQT3+QH3/wSWWByf3WA9fQAAAABJRU5ErkJggg==",
+                    "scrim_color": "#0F0D0E",
+                    "poster": "https://a0.muscache.com/im/pictures/79afe053-f3f4-443f-8bfe-9395c8fc396c.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/79afe053-f3f4-443f-8bfe-9395c8fc396c.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/79afe053-f3f4-443f-8bfe-9395c8fc396c.jpg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Heloisa",
+                "has_profile_pic": false,
+                "id": 250115246,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "1.5 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$60",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$60/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "esporte ao ar livre",
+              "base_price": 120.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "EcoRafting, semeando experiência",
+              "id": 1050745,
+              "is_social_good": false,
+              "kicker_text": "esporte ao ar livre",
+              "lat": -27.72345335264172,
+              "lng": -48.810568295028276,
+              "picture": {
+                "id": 828219159,
+                "dominant_saturated_color": "#97892D",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AU5UTD4+PQkGAPj5At/e3AFRVk9UT0Ps49wjLjnKzNcBxsvJ29jEr7CvLS81ExQiAbS0qf4DCe7w8ff6/9LNypWMIMGtJXuBAAAAAElFTkSuQmCC",
+                "saturated_a11y_dark_color": "#837727",
+                "scrim_color": "#272C25",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 828219159,
+                  "dominant_saturated_color": "#97892D",
+                  "caption": "Emoção nas corredeiras.",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AU5UTD4+PQkGAPj5At/e3AFRVk9UT0Ps49wjLjnKzNcBxsvJ29jEr7CvLS81ExQiAbS0qf4DCe7w8ff6/9LNypWMIMGtJXuBAAAAAElFTkSuQmCC",
+                  "scrim_color": "#272C25",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/b63a606d-5017-4a76-b5b9-110a9d2c9264.jpeg?aki_policy=x_large",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 4,
+              "product_type": 1,
+              "review_count": 1,
+              "star_rating": 5.0,
+              "tier_id": 0,
+              "title": "EcoRafting, semeando experiência",
+              "availabilities": [],
+              "primary_category_name": "Sports",
+              "display_rating": 5.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 828219160,
+                    "dominant_saturated_color": "#F5F6EC",
+                    "caption": "Confecção das \"bombas de semente\"  .",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/620eefe1-3674-4cb2-8195-15c5b58e04e6.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1050745-media_library/original/620eefe1-3674-4cb2-8195-15c5b58e04e6.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWM8vWX51n17k0tLGNfk5u5//YhbRpAxws2DU05FjvsfY7yP7aNPDO625owWpuZsrP9FxEUAE20RrpxnZjcAAAAASUVORK5CYII=",
+                    "scrim_color": "#1A191E",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/620eefe1-3674-4cb2-8195-15c5b58e04e6.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/620eefe1-3674-4cb2-8195-15c5b58e04e6.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/620eefe1-3674-4cb2-8195-15c5b58e04e6.jpeg?aki_policy=x_large",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 828219163,
+                    "dominant_saturated_color": "#F7CB51",
+                    "caption": "Café do Tabuleiro, aconchegante.",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/3cbfa85a-3280-49c9-955f-99f26d56d0e1.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1050745-media_library/original/3cbfa85a-3280-49c9-955f-99f26d56d0e1.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/ASgjDBAABfr6/wFALRvX4OwiEAgBe2lOBOvg0N3rAWhmWjof7EEv5QGioJvBxK9NL/DieRWiSkhKpAAAAABJRU5ErkJggg==",
+                    "scrim_color": "#0B0803",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/3cbfa85a-3280-49c9-955f-99f26d56d0e1.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/3cbfa85a-3280-49c9-955f-99f26d56d0e1.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/3cbfa85a-3280-49c9-955f-99f26d56d0e1.jpeg?aki_policy=x_large",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 828219166,
+                    "dominant_saturated_color": "#F0E986",
+                    "caption": "Alegria é nosso maior aliado!",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/1cc39d38-ef34-4fbc-a7c9-c60c65d8358e.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1050745-media_library/original/1cc39d38-ef34-4fbc-a7c9-c60c65d8358e.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZ58Y8/R2BAZH0tQIyM0XwF+UT08TyDKvN/5AvNFYHABi2NL5+jdyeP7AP8BNjkhAXZORs/k5+f08zclGw8WBHLgHAO7I2/vAAAAAElFTkSuQmCC",
+                    "scrim_color": "#201B15",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/1cc39d38-ef34-4fbc-a7c9-c60c65d8358e.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/1cc39d38-ef34-4fbc-a7c9-c60c65d8358e.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1050745-media_library/original/1cc39d38-ef34-4fbc-a7c9-c60c65d8358e.jpeg?aki_policy=x_large",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Claudia",
+                "has_profile_pic": false,
+                "id": 67920726,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "3 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$120",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$120/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "aula de culinária",
+              "base_price": 120.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Noite de churrasco típico gaúcho",
+              "id": 717310,
+              "is_social_good": false,
+              "kicker_text": "aula de culinária",
+              "lat": -27.59838091136356,
+              "lng": -48.609937954792336,
+              "picture": {
+                "id": 710891885,
+                "dominant_saturated_color": "#80300E",
+                "large_ro": "https://a0.muscache.com/im/pictures/3e5d8191-4443-4611-8115-de466bdd1d2c.jpg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/3e5d8191-4443-4611-8115-de466bdd1d2c.jpg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWPMsJTjULf0SSoQlZO8euY4o6GSeHVaIdefD6wsf76zCzFOK4mVZGb7LsYjyS0sr2gBAGXCDhWFMFphAAAAAElFTkSuQmCC",
+                "saturated_a11y_dark_color": "#80300E",
+                "scrim_color": "#140A09",
+                "original_picture": "https://a0.muscache.com/pictures/3e5d8191-4443-4611-8115-de466bdd1d2c.jpg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/3e5d8191-4443-4611-8115-de466bdd1d2c.jpg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 710891667,
+                  "dominant_saturated_color": "#873715",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/e42353cf-e44b-4fab-94ed-fb5a55b9b5e2.jpg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/e42353cf-e44b-4fab-94ed-fb5a55b9b5e2.jpg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AZKLiyRDSjAjGgHcvLvx9/H0GRsB6bu8s6mbHhcKAbx/af4rJvXT3gGEVTIWMTolGBI6pBUqp3SEPAAAAABJRU5ErkJggg==",
+                  "scrim_color": "#3D1E1B",
+                  "poster": "https://a0.muscache.com/im/pictures/e42353cf-e44b-4fab-94ed-fb5a55b9b5e2.jpg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/e42353cf-e44b-4fab-94ed-fb5a55b9b5e2.jpg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/e42353cf-e44b-4fab-94ed-fb5a55b9b5e2.jpg?aki_policy=x_large",
+                  "provider": "stock_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 7,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Noite de churrasco típico gaúcho",
+              "availabilities": [],
+              "primary_category_name": "Food & Drink",
+              "display_rating": 0.0,
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Mayara",
+                "has_profile_pic": false,
+                "id": 33060185,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "2 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$120",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$120/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "reunião social",
+              "base_price": 80.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Picnic Experience",
+              "id": 1302870,
+              "is_social_good": false,
+              "kicker_text": "reunião social",
+              "lat": -27.491019084623538,
+              "lng": -48.534826619952604,
+              "picture": {
+                "id": 904134944,
+                "dominant_saturated_color": "#787878",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg?aki_policy=large",
+                "preview_encoded_png": "",
+                "saturated_a11y_dark_color": "#787878",
+                "scrim_color": "",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 904134944,
+                  "dominant_saturated_color": "#787878",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg",
+                  "preview_encoded_png": "",
+                  "scrim_color": "",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/a5020d14-3a65-4a2b-892d-dbae6502cacc.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 7,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Picnic Experience",
+              "availabilities": [],
+              "primary_category_name": "Food & Drink",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 904134945,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/8d586905-7779-4e39-9564-64e099120d5a.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1302870-media_library/original/8d586905-7779-4e39-9564-64e099120d5a.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/8d586905-7779-4e39-9564-64e099120d5a.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/8d586905-7779-4e39-9564-64e099120d5a.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/8d586905-7779-4e39-9564-64e099120d5a.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 904134946,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/2deda885-01b4-465c-9a51-fbc68a016b0e.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1302870-media_library/original/2deda885-01b4-465c-9a51-fbc68a016b0e.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/2deda885-01b4-465c-9a51-fbc68a016b0e.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/2deda885-01b4-465c-9a51-fbc68a016b0e.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/2deda885-01b4-465c-9a51-fbc68a016b0e.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 904134947,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/6ed77ac5-1852-498f-a61f-1cc294eba48c.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1302870-media_library/original/6ed77ac5-1852-498f-a61f-1cc294eba48c.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/6ed77ac5-1852-498f-a61f-1cc294eba48c.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/6ed77ac5-1852-498f-a61f-1cc294eba48c.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1302870-media_library/original/6ed77ac5-1852-498f-a61f-1cc294eba48c.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Nicole",
+                "has_profile_pic": false,
+                "id": 51178857,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "3 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$80",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$80/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "aula de idioma",
+              "base_price": 96.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Portuguese Classes at Florianópolis",
+              "id": 486009,
+              "is_social_good": false,
+              "kicker_text": "aula de idioma",
+              "lat": -27.646188437190848,
+              "lng": -48.4775673436571,
+              "picture": {
+                "id": 633879098,
+                "dominant_saturated_color": "#C99A49",
+                "large_ro": "https://a0.muscache.com/im/pictures/d41beef0-a882-4726-888c-ed4899938929.jpg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/d41beef0-a882-4726-888c-ed4899938929.jpg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AaSRfsbLyE0n9dTi+t0AIwG6vLugn5lBIQn5DSAYIikBrK+rFRQRCgL89fHj8OzySRkYBbYiO90AAAAASUVORK5CYII=",
+                "saturated_a11y_dark_color": "#836127",
+                "scrim_color": "#191E17",
+                "original_picture": "https://a0.muscache.com/pictures/d41beef0-a882-4726-888c-ed4899938929.jpg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/d41beef0-a882-4726-888c-ed4899938929.jpg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 633878991,
+                  "dominant_saturated_color": "#D4A24C",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/4427e084-5633-4192-bb89-8d6267740ece.jpg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/4427e084-5633-4192-bb89-8d6267740ece.jpg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AXxvTzgR6gD7AAFjVEFbNffo8QYBR0dBTCwUEBknAZ6pqSsWDerr6QHIxrgAAwUB//66CxK/DD42ZgAAAABJRU5ErkJggg==",
+                  "scrim_color": "#161D16",
+                  "poster": "https://a0.muscache.com/im/pictures/4427e084-5633-4192-bb89-8d6267740ece.jpg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/4427e084-5633-4192-bb89-8d6267740ece.jpg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/4427e084-5633-4192-bb89-8d6267740ece.jpg?aki_policy=x_large",
+                  "provider": "stock_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 9,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Portuguese Classes at Florianópolis",
+              "availabilities": [],
+              "primary_category_name": "Lifestyle",
+              "display_rating": 0.0,
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Cláudia",
+                "has_profile_pic": false,
+                "id": 33442556,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "1.5 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$96",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$96/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "caminhada ecológica",
+              "base_price": 100.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Conectando na Natureza Guarda do Embaú",
+              "id": 862382,
+              "is_social_good": false,
+              "kicker_text": "caminhada ecológica",
+              "lat": -27.90083401579788,
+              "lng": -48.59217756460482,
+              "picture": {
+                "id": 922246211,
+                "dominant_saturated_color": "#787878",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg?aki_policy=large",
+                "preview_encoded_png": "",
+                "saturated_a11y_dark_color": "#787878",
+                "scrim_color": "",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 922246211,
+                  "dominant_saturated_color": "#787878",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg",
+                  "preview_encoded_png": "",
+                  "scrim_color": "",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/4fa39200-0f3d-4306-9d56-62d19295291f.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 6,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Conectando na Natureza Guarda do Embaú",
+              "availabilities": [],
+              "primary_category_name": "Nature",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 913800233,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/7d87aa29-f4e5-4b92-b4c8-54dc6a62b0a2.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-862382-media_library/original/7d87aa29-f4e5-4b92-b4c8-54dc6a62b0a2.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/7d87aa29-f4e5-4b92-b4c8-54dc6a62b0a2.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/7d87aa29-f4e5-4b92-b4c8-54dc6a62b0a2.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/7d87aa29-f4e5-4b92-b4c8-54dc6a62b0a2.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 8
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 910625188,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/39b1636c-7c8d-4adc-b877-8e988d75c65f.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-862382-media_library/original/39b1636c-7c8d-4adc-b877-8e988d75c65f.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/39b1636c-7c8d-4adc-b877-8e988d75c65f.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/39b1636c-7c8d-4adc-b877-8e988d75c65f.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/39b1636c-7c8d-4adc-b877-8e988d75c65f.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 913800228,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/ef1ffe64-50cf-4c4d-a196-e2269c24e2ff.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-862382-media_library/original/ef1ffe64-50cf-4c4d-a196-e2269c24e2ff.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/ef1ffe64-50cf-4c4d-a196-e2269c24e2ff.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/ef1ffe64-50cf-4c4d-a196-e2269c24e2ff.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-862382-media_library/original/ef1ffe64-50cf-4c4d-a196-e2269c24e2ff.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 4
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Cantante Dourado",
+                "has_profile_pic": false,
+                "id": 262602846,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "4.5 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$100",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$100/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "caminhada guiada",
+              "base_price": 170.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Costa da Lagoa para viajantes curiosos",
+              "id": 1330605,
+              "is_social_good": false,
+              "kicker_text": "caminhada guiada",
+              "lat": -27.581250177417047,
+              "lng": -48.45766246971533,
+              "picture": {
+                "id": 915118717,
+                "dominant_saturated_color": "#8EB054",
+                "large_ro": "https://a0.muscache.com/im/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWOMTAoxs3D8+PkuY3pqIp/kvz9MXxg9vczEBMTf/nzJ6OymK8Iv/PThC8bkWF9ZEUkmVnYA7EsRnXa17kUAAAAASUVORK5CYII=",
+                "saturated_a11y_dark_color": "#647C3A",
+                "scrim_color": "#1E1B12",
+                "original_picture": "https://a0.muscache.com/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 915118717,
+                  "dominant_saturated_color": "#8EB054",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWOMTAoxs3D8+PkuY3pqIp/kvz9MXxg9vczEBMTf/nzJ6OymK8Iv/PThC8bkWF9ZEUkmVnYA7EsRnXa17kUAAAAASUVORK5CYII=",
+                  "scrim_color": "#1E1B12",
+                  "poster": "https://a0.muscache.com/im/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/756b8ab1-d453-4c76-80c5-e48cb7aa1ab1.jpg?aki_policy=x_large",
+                  "provider": "stock_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 6,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Costa da Lagoa para viajantes curiosos",
+              "availabilities": [],
+              "primary_category_name": "Nature",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 915118871,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1330605-media_library/original/2ddb0b80-1ccd-4592-952c-a4345dee3b30.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1330605-media_library/original/2ddb0b80-1ccd-4592-952c-a4345dee3b30.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1330605-media_library/original/2ddb0b80-1ccd-4592-952c-a4345dee3b30.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1330605-media_library/original/2ddb0b80-1ccd-4592-952c-a4345dee3b30.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1330605-media_library/original/2ddb0b80-1ccd-4592-952c-a4345dee3b30.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Keth",
+                "has_profile_pic": false,
+                "id": 10346423,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "7 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$170",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$170/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "wakeboarding",
+              "base_price": 215.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brazil",
+              "display_text": "Aprenda Wakeboard ou Esqui Aquático",
+              "id": 1313580,
+              "is_social_good": false,
+              "kicker_text": "wakeboarding",
+              "lat": -28.288306966652694,
+              "lng": -48.70990106233788,
+              "picture": {
+                "id": 910626196,
+                "dominant_saturated_color": "#787878",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg?aki_policy=large",
+                "preview_encoded_png": "",
+                "saturated_a11y_dark_color": "#787878",
+                "scrim_color": "",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 910626196,
+                  "dominant_saturated_color": "#787878",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg",
+                  "preview_encoded_png": "",
+                  "scrim_color": "",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/9745ad54-0132-48d5-b73f-29dae864768f.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 4,
+              "product_type": 1,
+              "review_count": 1,
+              "star_rating": 5.0,
+              "tier_id": 0,
+              "title": "Aprenda Wakeboard ou Esqui Aquático",
+              "availabilities": [],
+              "primary_category_name": "Sports",
+              "display_rating": 5.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 910626194,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "Local da experiência",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/518a8edf-7554-4587-9c33-2f237f9d0b13.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1313580-media_library/original/518a8edf-7554-4587-9c33-2f237f9d0b13.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/518a8edf-7554-4587-9c33-2f237f9d0b13.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/518a8edf-7554-4587-9c33-2f237f9d0b13.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/518a8edf-7554-4587-9c33-2f237f9d0b13.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 914592456,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "Slalom Ski",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/36d473d2-c852-413d-ba0b-347c616c7130.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1313580-media_library/original/36d473d2-c852-413d-ba0b-347c616c7130.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/36d473d2-c852-413d-ba0b-347c616c7130.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/36d473d2-c852-413d-ba0b-347c616c7130.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/36d473d2-c852-413d-ba0b-347c616c7130.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 923100631,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "Hóspede executando a atividade",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/b722ce81-3c94-4392-b67e-53af8ea6ab8c.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1313580-media_library/original/b722ce81-3c94-4392-b67e-53af8ea6ab8c.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/b722ce81-3c94-4392-b67e-53af8ea6ab8c.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/b722ce81-3c94-4392-b67e-53af8ea6ab8c.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1313580-media_library/original/b722ce81-3c94-4392-b67e-53af8ea6ab8c.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Thomáz",
+                "has_profile_pic": false,
+                "id": 239383485,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "1.5 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$215",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$215/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "oficina",
+              "base_price": 160.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Arte e proteção à biodiversidade",
+              "id": 87112,
+              "is_social_good": false,
+              "kicker_text": "oficina",
+              "lat": -28.106038722405707,
+              "lng": -48.66834862956217,
+              "picture": {
+                "id": 628442043,
+                "dominant_saturated_color": "#DAEDC5",
+                "large_ro": "https://a0.muscache.com/im/pictures/d2bd97ed-599a-40f8-ac36-c7050d8d0bbc.jpg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/d2bd97ed-599a-40f8-ac36-c7050d8d0bbc.jpg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWNMmOxz78M7NkZmPy1bKVkhxvIZEZfO35WVkeFnl+DQ+MBYXh/GwvqVTVT4zp2nkioMAIzOD+GLsMpCAAAAAElFTkSuQmCC",
+                "saturated_a11y_dark_color": "#4D7123",
+                "scrim_color": "#393B26",
+                "original_picture": "https://a0.muscache.com/pictures/d2bd97ed-599a-40f8-ac36-c7050d8d0bbc.jpg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/d2bd97ed-599a-40f8-ac36-c7050d8d0bbc.jpg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 916712201,
+                  "dominant_saturated_color": "#787878",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/f0692775-76d8-4bba-a095-8f7397c5f4b5.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-87112-media_library/original/f0692775-76d8-4bba-a095-8f7397c5f4b5.jpeg",
+                  "preview_encoded_png": "",
+                  "scrim_color": "",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/f0692775-76d8-4bba-a095-8f7397c5f4b5.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/f0692775-76d8-4bba-a095-8f7397c5f4b5.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/f0692775-76d8-4bba-a095-8f7397c5f4b5.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 6,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Arte e proteção à biodiversidade",
+              "availabilities": [],
+              "primary_category_name": "Nature",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 668440761,
+                    "dominant_saturated_color": "#DBD0BD",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/5b819726-ccce-43dc-a24d-eb42724a87d1.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/5b819726-ccce-43dc-a24d-eb42724a87d1.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAOklEQVQIHWOsK0xUlRXT0DdiLE2LsDJSVdU2YqwvSDQx0FHR1mbMiQ+y1JTlkVFiFODn0VJVZGdhAQAX6Qlnh5tAQQAAAABJRU5ErkJggg==",
+                    "scrim_color": "#110D0A",
+                    "poster": "https://a0.muscache.com/im/pictures/5b819726-ccce-43dc-a24d-eb42724a87d1.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/5b819726-ccce-43dc-a24d-eb42724a87d1.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/5b819726-ccce-43dc-a24d-eb42724a87d1.jpg?aki_policy=x_large",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 668440766,
+                    "dominant_saturated_color": "#CBC985",
+                    "caption": "Técnica de tecelagem",
+                    "picture": "https://a0.muscache.com/im/pictures/d2509738-ac20-4173-aeec-3b0947eb9263.jpg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/d2509738-ac20-4173-aeec-3b0947eb9263.jpg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AUpQaAwN+PPw8gULFfkBDQFjZXxLPBD5/wzy9fgJDQMBYmFtSDoSChIs9vjuAv/tAS05MxwWFRgXF//8/AAGBh8mF+8/AZdtAAAAAElFTkSuQmCC",
+                    "scrim_color": "#0F1316",
+                    "poster": "https://a0.muscache.com/im/pictures/d2509738-ac20-4173-aeec-3b0947eb9263.jpg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/d2509738-ac20-4173-aeec-3b0947eb9263.jpg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/d2509738-ac20-4173-aeec-3b0947eb9263.jpg?aki_policy=x_large",
+                    "sort_order": 5
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 916712179,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/93ee5231-cebf-4f60-8e49-7310fa8479a0.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-87112-media_library/original/93ee5231-cebf-4f60-8e49-7310fa8479a0.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/93ee5231-cebf-4f60-8e49-7310fa8479a0.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/93ee5231-cebf-4f60-8e49-7310fa8479a0.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-87112-media_library/original/93ee5231-cebf-4f60-8e49-7310fa8479a0.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 6
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Jéssica",
+                "has_profile_pic": false,
+                "id": 136821549,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "6 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$160",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$160/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "aula de culinária",
+              "base_price": 182.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brazil",
+              "display_text": "Aula Particular de Massa Caseira",
+              "id": 1298750,
+              "is_social_good": false,
+              "kicker_text": "aula de culinária",
+              "lat": -26.994293665133817,
+              "lng": -48.62857818014762,
+              "picture": {
+                "id": 902695000,
+                "dominant_saturated_color": "#787878",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg?aki_policy=large",
+                "preview_encoded_png": "",
+                "saturated_a11y_dark_color": "#787878",
+                "scrim_color": "",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 902695000,
+                  "dominant_saturated_color": "#787878",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg",
+                  "preview_encoded_png": "",
+                  "scrim_color": "",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/ada51c27-de0f-467b-be5f-a751b436bab8.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 7,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Aula Particular de Massa Caseira",
+              "availabilities": [],
+              "primary_category_name": "Food & Drink",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 902695002,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/de1adf76-bcf6-4720-9dd2-8c4631d5993a.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1298750-media_library/original/de1adf76-bcf6-4720-9dd2-8c4631d5993a.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/de1adf76-bcf6-4720-9dd2-8c4631d5993a.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/de1adf76-bcf6-4720-9dd2-8c4631d5993a.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/de1adf76-bcf6-4720-9dd2-8c4631d5993a.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 902695003,
+                    "dominant_saturated_color": "#787878",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/b3054481-d646-4aa2-aa95-635014b7c251.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-1298750-media_library/original/b3054481-d646-4aa2-aa95-635014b7c251.jpeg",
+                    "preview_encoded_png": "",
+                    "scrim_color": "",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/b3054481-d646-4aa2-aa95-635014b7c251.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/b3054481-d646-4aa2-aa95-635014b7c251.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1298750-media_library/original/b3054481-d646-4aa2-aa95-635014b7c251.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Paula",
+                "has_profile_pic": false,
+                "id": 8626957,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "3 horas"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$182",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$182/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            },
+            {
+              "action_kicker": "sessão de fotografia",
+              "base_price": 150.0,
+              "currency": {
+                "currency": "BRL",
+                "currency_symbol_comes_after_currency": false
+              },
+              "country": "Brasil",
+              "display_text": "Ensaio Fotográfico em Balneário Camboriú",
+              "id": 983076,
+              "is_social_good": false,
+              "kicker_text": "sessão de fotografia",
+              "lat": -26.970392416638347,
+              "lng": -48.63283235751471,
+              "picture": {
+                "id": 815770130,
+                "dominant_saturated_color": "#D7A089",
+                "large_ro": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-recommendation_item_cover/original/c6fe8fca-6683-4dfc-8f8b-ca4ad4533be6.jpeg?aki_policy=large_ro",
+                "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-recommendation_item_cover/original/c6fe8fca-6683-4dfc-8f8b-ca4ad4533be6.jpeg?aki_policy=large",
+                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AfXz9NfIwqWlpPQMF4mBfgHp5Onh2tq2urfi7O96amUB2szQ0dfc5tfJT2Ry//v8Dncg4UNBkaIAAAAASUVORK5CYII=",
+                "saturated_a11y_dark_color": "#A55A39",
+                "scrim_color": "#1B2C34",
+                "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-983076-recommendation_item_cover/original/c6fe8fca-6683-4dfc-8f8b-ca4ad4533be6.jpeg",
+                "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-recommendation_item_cover/original/c6fe8fca-6683-4dfc-8f8b-ca4ad4533be6.jpeg?aki_policy=x_large"
+              },
+              "poster_pictures": [
+                {
+                  "id": 815769958,
+                  "dominant_saturated_color": "#0E2B36",
+                  "caption": "",
+                  "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/b1dddc2f-bb6e-4900-8218-5a1598eb6d99.jpeg?aki_policy=large",
+                  "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-983076-media_library/original/b1dddc2f-bb6e-4900-8218-5a1598eb6d99.jpeg",
+                  "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AfDv8uHk5hoYGAHs5ueViIIpQEkB29LZrKqlSU1RAcqyr9vY1zUsLAF4gou1u7pyTEe7rBo0kPe1cgAAAABJRU5ErkJggg==",
+                  "scrim_color": "#0E2A35",
+                  "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/b1dddc2f-bb6e-4900-8218-5a1598eb6d99.jpeg?aki_policy=poster",
+                  "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/b1dddc2f-bb6e-4900-8218-5a1598eb6d99.jpeg?aki_policy=xl_poster",
+                  "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/b1dddc2f-bb6e-4900-8218-5a1598eb6d99.jpeg?aki_policy=x_large",
+                  "provider": "host_provided_photo",
+                  "sort_order": 1
+                }
+              ],
+              "primary_category": 1,
+              "product_type": 1,
+              "review_count": 0,
+              "star_rating": 0.0,
+              "tier_id": 0,
+              "title": "Ensaio Fotográfico em Balneário Camboriú",
+              "availabilities": [],
+              "primary_category_name": "Arts & Design",
+              "display_rating": 0.0,
+              "carousel_collection_multimedia": [
+                {
+                  "picture": {
+                    "id": 815769942,
+                    "dominant_saturated_color": "#031F23",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/497e50d8-681d-483f-99bd-fde6ef1582da.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-983076-media_library/original/497e50d8-681d-483f-99bd-fde6ef1582da.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWMUNdP/9OUn4+//jOwKKkFGGrvuPWa0Dwz1t7apmTWdUdLIYmFRfnx/P6OKjeu0yrrivjYA73MTXwnfNAgAAAAASUVORK5CYII=",
+                    "scrim_color": "#031F23",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/497e50d8-681d-483f-99bd-fde6ef1582da.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/497e50d8-681d-483f-99bd-fde6ef1582da.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/497e50d8-681d-483f-99bd-fde6ef1582da.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 1
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 815769947,
+                    "dominant_saturated_color": "#E3AB97",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/42ba50ea-20f3-46f5-9b55-a1cd51352ba9.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-983076-media_library/original/42ba50ea-20f3-46f5-9b55-a1cd51352ba9.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Adzc49nHvCo0OgHg1tzIr50lLjAB5+Lq4MfBHisoAeHHyAD+/QkRDwHHmI0D+fEcOUexeRlTnSdB5wAAAABJRU5ErkJggg==",
+                    "scrim_color": "#473939",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/42ba50ea-20f3-46f5-9b55-a1cd51352ba9.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/42ba50ea-20f3-46f5-9b55-a1cd51352ba9.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/42ba50ea-20f3-46f5-9b55-a1cd51352ba9.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 2
+                  }
+                },
+                {
+                  "picture": {
+                    "id": 815769950,
+                    "dominant_saturated_color": "#F7BB43",
+                    "caption": "",
+                    "picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/7f112248-ff26-4342-87ad-b6f80301dc5a.jpeg?aki_policy=large",
+                    "original_picture": "https://a0.muscache.com/pictures/lombard/MtTemplate-983076-media_library/original/7f112248-ff26-4342-87ad-b6f80301dc5a.jpeg",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AbLH3BQMCAP78gHm6/L67t7q3NYB1NfbEPbbA//zAbvAxR8RDxojHwHP1NcC/AQHCwDOQxldjwUXegAAAABJRU5ErkJggg==",
+                    "scrim_color": "#313E46",
+                    "poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/7f112248-ff26-4342-87ad-b6f80301dc5a.jpeg?aki_policy=poster",
+                    "xl_poster": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/7f112248-ff26-4342-87ad-b6f80301dc5a.jpeg?aki_policy=xl_poster",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/lombard/MtTemplate-983076-media_library/original/7f112248-ff26-4342-87ad-b6f80301dc5a.jpeg?aki_policy=x_large",
+                    "provider": "host_provided_photo",
+                    "sort_order": 3
+                  }
+                }
+              ],
+              "display_mode": "BROWSE",
+              "host": {
+                "first_name": "Taimara",
+                "has_profile_pic": false,
+                "id": 41248084,
+                "is_superhost": false
+              },
+              "spotlight_type": "DESCRIPTION",
+              "summaries": [
+                "1 hora"
+              ],
+              "kicker_text_color": "#767676",
+              "star_rating_color": "#008489",
+              "base_price_string": "R$150",
+              "is_new_pdp": false,
+              "price_string": "A partir de R$150/pessoa",
+              "experience_type": "EXPERIENCE",
+              "adventure_item": {
+                "trip_gallery_pictures": []
+              }
+            }
+          ],
+          "review_items": [],
+          "breadcrumbs": [],
+          "section_metadata": {
+            "is_mimicking_paginated": false,
+            "should_hide_items_from_map": false
+          },
+          "nearby_locations": [],
+          "section_component_type": "EXPERIENCES_GRID",
+          "alternative_dates": [],
+          "is_context_variable_validation_failed": false
+        }
+      ],
+      "experiments_metadata": [],
+      "experience_tab_metadata": {
+        "has_map": true,
+        "count": 17,
+        "filters": {
+          "sections": [
+            {
+              "items": [
+                {
+                  "selected": false,
+                  "type": "date_picker",
+                  "title": "Datas",
+                  "params": [
+                    {
+                      "key": "checkin",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "string"
+                    },
+                    {
+                      "key": "checkout",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "string"
+                    }
+                  ]
+                }
+              ],
+              "selected": false,
+              "title": "Datas",
+              "filter_bar_title": "Datas",
+              "filter_section_id": "date_picker",
+              "bar_items": [],
+              "collapse_state": "expanded",
+              "subsections": [],
+              "experiments_metadata": []
+            },
+            {
+              "items": [
+                {
+                  "selected": false,
+                  "type": "stepper",
+                  "title": "Adultos",
+                  "params": [
+                    {
+                      "key": "adults",
+                      "value": "0",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "integer"
+                    }
+                  ],
+                  "metadata": {
+                    "min_value": 0,
+                    "max_value": 16
+                  },
+                  "key": "adults",
+                  "value": 0
+                },
+                {
+                  "selected": false,
+                  "type": "stepper",
+                  "title": "Crianças",
+                  "subtitle": "Idade 2 – 12",
+                  "params": [
+                    {
+                      "key": "children",
+                      "value": "0",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "integer"
+                    }
+                  ],
+                  "metadata": {
+                    "min_value": 0,
+                    "max_value": 5
+                  },
+                  "key": "children",
+                  "value": 0
+                },
+                {
+                  "selected": false,
+                  "type": "stepper",
+                  "title": "Bebês",
+                  "subtitle": "Menor de 2",
+                  "params": [
+                    {
+                      "key": "infants",
+                      "value": "0",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "integer"
+                    }
+                  ],
+                  "metadata": {
+                    "min_value": 0,
+                    "max_value": 5
+                  },
+                  "key": "infants",
+                  "value": 0
+                }
+              ],
+              "selected": false,
+              "title": "Hóspedes",
+              "filter_bar_title": "Hóspedes",
+              "filter_section_id": "guest_picker",
+              "bar_items": [],
+              "collapse_state": "expanded",
+              "subsections": [],
+              "experiments_metadata": []
+            },
+            {
+              "items": [
+                {
+                  "selected": false,
+                  "type": "price_slider",
+                  "title": "R$4 - R$414",
+                  "subtitle": "O preço médio de uma experiência é R$118.",
+                  "params": [
+                    {
+                      "key": "price_min",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "integer"
+                    },
+                    {
+                      "key": "price_max",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "integer"
+                    },
+                    {
+                      "key": "price_bucket",
+                      "delete": true,
+                      "invisible_to_user": false,
+                      "value_type": "integer"
+                    }
+                  ],
+                  "metadata": {
+                    "price_histogram": [],
+                    "min_value": 4,
+                    "max_value": 414,
+                    "average_price": 118
+                  }
+                }
+              ],
+              "selected": false,
+              "title": "Faixa de preço",
+              "filter_bar_title": "Preço",
+              "filter_section_id": "price_range",
+              "bar_items": [],
+              "collapse_state": "collapsable_and_expanded",
+              "subsections": [],
+              "experiments_metadata": [],
+              "collapse_subtitle": "R$4 - R$414",
+              "collapse_selected_subtitles": []
+            },
+            {
+              "items": [
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Manhã",
+                  "subtitle": "Começa antes das 12h",
+                  "params": [
+                    {
+                      "key": "experience_time_of_day",
+                      "value": "morning",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "EXPERIENCE_TIME_OF_DAY",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Tarde",
+                  "subtitle": "Começa depois das 12h",
+                  "params": [
+                    {
+                      "key": "experience_time_of_day",
+                      "value": "afternoon",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "EXPERIENCE_TIME_OF_DAY",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Início da noite",
+                  "subtitle": "Começa depois das 17h",
+                  "params": [
+                    {
+                      "key": "experience_time_of_day",
+                      "value": "evening",
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "EXPERIENCE_TIME_OF_DAY",
+                  "states": []
+                }
+              ],
+              "selected": false,
+              "title": "Horário",
+              "filter_bar_title": "Horário",
+              "filter_section_id": "experience_time_of_day",
+              "bar_items": [],
+              "subsections": [],
+              "experiments_metadata": [],
+              "collapse_subtitle": "Manhã, Tarde, Início da noite",
+              "collapse_selected_subtitles": []
+            },
+            {
+              "items": [
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Inglês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 1,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Francês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 2,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Alemão",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 4,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Japonês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 8,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Italiano",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 16,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Russo",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 32,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Espanhol",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 64,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Chinês (Simplificado)",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 128,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Árabe",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 256,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Hindu",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 512,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Português",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 1024,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Turco",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 2048,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Indonésio",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 4096,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Holandês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 8192,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Coreano",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 16384,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Bengali",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 32768,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Tailandês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 65536,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Punjabi",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 131072,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Grego",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 262144,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Linguagem de sinais",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 524288,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Hebraico",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 1048576,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Polonês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 2097152,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Malaio",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 4194304,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Tagalog",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 8388608,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Dinamarquês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 16777216,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Sueco",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 33554432,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Norueguês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 67108864,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Finlandês",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 134217728,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Tcheco",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 268435456,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Húngaro",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 536870912,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                },
+                {
+                  "selected": false,
+                  "type": "checkbox",
+                  "title": "Ucraniano",
+                  "params": [
+                    {
+                      "key": "experience_languages",
+                      "value": 1073741824,
+                      "delete": false,
+                      "invisible_to_user": false,
+                      "value_type": "array"
+                    }
+                  ],
+                  "sub_type": "HOST_LANGUAGE",
+                  "states": []
+                }
+              ],
+              "selected": false,
+              "title": "Idioma oferecido",
+              "filter_bar_title": "Idioma oferecido",
+              "filter_section_id": "host_language",
+              "expand_text": "Mostrar tudo",
+              "collapse_text": "Ocultar idiomas",
+              "bar_items": [],
+              "subsections": [],
+              "experiments_metadata": [],
+              "collapse_subtitle": "Inglês, Francês, Alemão, Mais 28",
+              "collapse_selected_subtitles": []
+            }
+          ],
+          "more_filters_button": {
+            "text": "Ver experiências",
+            "verified": false,
+            "bg_color": "#008489"
+          },
+          "filter_bar_ordering": {
+            "default": [
+              "date_picker",
+              "guest_picker",
+              "price_range",
+              "experience_time_of_day",
+              "host_language"
+            ],
+            "small": [
+              "date_picker",
+              "guest_picker"
+            ]
+          },
+          "more_filters_ordering": {
+            "default": [],
+            "small": [
+              "price_range",
+              "experience_time_of_day",
+              "host_language"
+            ]
+          },
+          "more_filters_counts": {
+            "default": 0,
+            "small": 0
+          },
+          "filter_bar_counts": {
+            "default": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "small": [
+              0,
+              0
+            ]
+          }
+        },
+        "geography": {
+          "accuracy": 4,
+          "city": "Florianópolis",
+          "country_code": "BR",
+          "country": "Brazil",
+          "lat": -27.5986393,
+          "lng": -48.5187229,
+          "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+          "precision": "city",
+          "result_type": "locality",
+          "state": "State of Santa Catarina",
+          "state_short": "SC",
+          "extended_precision": "city",
+          "full_address": "Florianópolis, State of Santa Catarina, Brazil",
+          "market": "Florianopolis",
+          "province": "Florianópolis",
+          "show_shape": false
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "current_tab_id": "experience_tab",
+    "request_uuid": "6704a553-0645-b860-59d2-87e034a49c33",
+    "search_id": "6704a553-0645-b860-59d2-87e034a49c33",
+    "query": "Florianópolis - SC",
+    "query_text": "Florianópolis · Comidas e bebidas",
+    "current_refinement_paths": [
+      "/experiences/KG/Tag:1685"
+    ],
+    "federated_search_id": "91e4d11b-9d38-4362-aaf7-a0b69d0d45a0",
+    "federated_search_session_id": "c4065e4e-5b63-4020-8c62-e8979c5b774b",
+    "suggestions": [
+      {
+        "title": "Todos",
+        "type": "for_you",
+        "search_params": {
+          "params": [],
+          "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+          "query": "Florianópolis - SC",
+          "refinement_paths": [
+            "/for_you"
+          ],
+          "refinement_path": "/for_you",
+          "tab_id": "all_tab",
+          "reset_filters": false,
+          "reset_keys": []
+        },
+        "is_selected": false,
+        "fully_qualified_title": "Florianópolis - SC · Todos"
+      },
+      {
+        "title": "Estadias",
+        "type": "homes",
+        "search_params": {
+          "params": [],
+          "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+          "query": "Florianópolis - SC",
+          "refinement_paths": [
+            "/homes"
+          ],
+          "refinement_path": "/homes",
+          "tab_id": "home_tab",
+          "reset_filters": false,
+          "reset_keys": []
+        },
+        "is_selected": false,
+        "fully_qualified_title": "Florianópolis - SC · Estadias"
+      },
+      {
+        "title": "Experiências",
+        "type": "experiences",
+        "search_params": {
+          "params": [],
+          "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+          "query": "Florianópolis - SC",
+          "refinement_paths": [
+            "/experiences"
+          ],
+          "refinement_path": "/experiences",
+          "tab_id": "experience_tab",
+          "reset_filters": false,
+          "reset_keys": []
+        },
+        "is_selected": true,
+        "fully_qualified_title": "Florianópolis - SC · Experiências"
+      }
+    ],
+    "has_map": true,
+    "show_as_hint": false,
+    "marquee_mode": "DEFAULT",
+    "satori_version": "1.0.3",
+    "gtm_experiments": [],
+    "saved_search_responses": [
+      {
+        "hash_user_id": "null",
+        "saved_search_id": "3e0085d0-5964-4a90-b627-a220cee85766",
+        "modified_at": 1575907698000,
+        "source": "explore_tabs:EXPLORE",
+        "explore_search_params": {
+          "params": [
+            {
+              "key": "adults",
+              "value_type": "integer",
+              "in_array": false,
+              "value": 1,
+              "delete": false,
+              "invisible_to_user": false
+            },
+            {
+              "key": "children",
+              "value_type": "integer",
+              "in_array": false,
+              "value": 0,
+              "delete": false,
+              "invisible_to_user": false
+            },
+            {
+              "key": "infants",
+              "value_type": "integer",
+              "in_array": false,
+              "value": 0,
+              "delete": false,
+              "invisible_to_user": false
+            }
+          ],
+          "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+          "query": "Florianópolis - SC",
+          "refinement_paths": [
+            "/experiences/KG/Tag:1685"
+          ],
+          "refinement_path": "/experiences/KG/Tag:1685",
+          "tab_id": "experience_tab",
+          "reset_filters": false,
+          "reset_keys": []
+        },
+        "display_text": "Florianópolis · Comidas e bebidas",
+        "subtitle": ""
+      },
+      {
+        "hash_user_id": "null",
+        "saved_search_id": "59147795-06bf-4a88-80d2-141ecc6fc282",
+        "modified_at": 1575907630000,
+        "source": "explore_tabs:EXPLORE",
+        "explore_search_params": {
+          "params": [
+            {
+              "key": "adults",
+              "value_type": "integer",
+              "in_array": false,
+              "value": 1,
+              "delete": false,
+              "invisible_to_user": false
+            },
+            {
+              "key": "children",
+              "value_type": "integer",
+              "in_array": false,
+              "value": 0,
+              "delete": false,
+              "invisible_to_user": false
+            },
+            {
+              "key": "infants",
+              "value_type": "integer",
+              "in_array": false,
+              "value": 0,
+              "delete": false,
+              "invisible_to_user": false
+            }
+          ],
+          "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+          "query": "Florianópolis - SC",
+          "refinement_paths": [
+            "/experiences"
+          ],
+          "refinement_path": "/experiences",
+          "tab_id": "experience_tab",
+          "reset_filters": false,
+          "reset_keys": []
+        },
+        "display_text": "Florianópolis · Experiências",
+        "subtitle": ""
+      }
+    ],
+    "map_toggle": false,
+    "price_display_strategy": "CONTROL",
+    "satori_config": {
+      "market": "Florianopolis",
+      "state_code": "",
+      "country_code": "BR",
+      "region_id": -1,
+      "version": "1.1.9"
+    },
+    "page_metadata": {
+      "page_title": "Comidas e bebidas em Florianópolis | Experiências autênticas de 5 estrelas",
+      "render_type": "EXPLORE",
+      "canonical_url": "/s/Florianópolis--Brazil-Comidas-e-bebidas/experiences",
+      "location_query": false,
+      "page_description": "Participe de experiências de Comidas e bebidas com nossos anfitriões locais em Florianópolis ou nos arredores. Experimente uma ampla gama de passeios e eventos através do Airbnb.",
+      "android_alternate_url": "android-app://com.airbnb.android/airbnb/search?place_id=ChIJ1zLGsk45J5URRscEagtVvIE&query=Florian%C3%B3polis+-+SC&refinement_paths%5B%5D=%2Fexperiences%2FKG%2FTag%3A1685&search_type=section_navigation",
+      "android_deeplink": "airbnb://d/search?place_id=ChIJ1zLGsk45J5URRscEagtVvIE&query=Florian%C3%B3polis+-+SC&refinement_paths%5B%5D=%2Fexperiences%2FKG%2FTag%3A1685&search_type=section_navigation",
+      "iphone_deeplink": "airbnb://d/search?place_id=ChIJ1zLGsk45J5URRscEagtVvIE&query=Florian%C3%B3polis+-+SC&refinement_paths%5B%5D=%2Fexperiences%2FKG%2FTag%3A1685&search_type=section_navigation",
+      "og_tags": {
+        "og_type": "website",
+        "og_url": "/s/Florianópolis--Brazil-Comidas-e-bebidas/experiences",
+        "og_image": "https://a0.muscache.com/im/pictures/e7312901-fa70-4c4d-8940-3f5ce1d88402.jpg?aki_policy=large",
+        "og_title": "Experiências do Airbnb",
+        "og_description": "Passeios gastronômicos, aulas de surfe e mais atividades únicas hospedadas por moradores locais"
+      },
+      "twitter_tags": {
+        "twitter_card": "summary_large_image",
+        "twitter_url": "/s/Florianópolis--Brazil-Comidas-e-bebidas/experiences",
+        "twitter_image": "https://a0.muscache.com/im/pictures/e7312901-fa70-4c4d-8940-3f5ce1d88402.jpg?aki_policy=large",
+        "twitter_title": "Experiências do Airbnb",
+        "twitter_description": "Passeios gastronômicos, aulas de surfe e mais atividades únicas hospedadas por moradores locais"
+      }
+    },
+    "geography": {
+      "accuracy": 4,
+      "city": "Florianópolis",
+      "country_code": "BR",
+      "country": "Brazil",
+      "lat": -27.5986393,
+      "lng": -48.5187229,
+      "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+      "precision": "city",
+      "result_type": "locality",
+      "state": "State of Santa Catarina",
+      "state_short": "SC",
+      "extended_precision": "city",
+      "full_address": "Florianópolis, State of Santa Catarina, Brazil",
+      "market": "Florianopolis",
+      "province": "Florianópolis",
+      "show_shape": false
+    },
+    "refinement_display_text": "Comidas e bebidas",
+    "recent_searches_responses": {},
+    "autosuggestions_response": {
+      "autosuggestions": [
+        {
+          "type": "RECENT_SEARCHES",
+          "title": "Buscas recentes",
+          "max_num_rows": 2,
+          "items": [
+            {
+              "id": "c62b6994cced84c836cd03d051482b41622fe29fae33aeb0b16a03d896bc0b38",
+              "explore_search_params": {
+                "params": [
+                  {
+                    "key": "adults",
+                    "value_type": "integer",
+                    "in_array": false,
+                    "value": 1,
+                    "delete": false,
+                    "invisible_to_user": false
+                  },
+                  {
+                    "key": "children",
+                    "value_type": "integer",
+                    "in_array": false,
+                    "value": 0,
+                    "delete": false,
+                    "invisible_to_user": false
+                  },
+                  {
+                    "key": "infants",
+                    "value_type": "integer",
+                    "in_array": false,
+                    "value": 0,
+                    "delete": false,
+                    "invisible_to_user": false
+                  }
+                ],
+                "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+                "query": "Florianópolis - SC",
+                "refinement_paths": [
+                  "/experiences/KG/Tag:1685"
+                ],
+                "refinement_path": "/experiences/KG/Tag:1685",
+                "tab_id": "experience_tab",
+                "reset_filters": false,
+                "reset_keys": []
+              },
+              "suggestion_type": "RECENT_SEARCH",
+              "vertical_type": "experiences",
+              "display_name": "Florianópolis · Comidas e bebidas",
+              "sub_title": "",
+              "metadata": {
+                "location_only_result": false,
+                "airmoji": "description_clock"
+              },
+              "location": {},
+              "refinements": [],
+              "poi_list": [],
+              "pdp_details": {},
+              "site_nav_details": {},
+              "highlights": []
+            },
+            {
+              "id": "183e192fa07a505a9ec7e5599f9df8de60a022b5a64d9a6788fc9e4e6ee21087",
+              "explore_search_params": {
+                "params": [
+                  {
+                    "key": "adults",
+                    "value_type": "integer",
+                    "in_array": false,
+                    "value": 1,
+                    "delete": false,
+                    "invisible_to_user": false
+                  },
+                  {
+                    "key": "children",
+                    "value_type": "integer",
+                    "in_array": false,
+                    "value": 0,
+                    "delete": false,
+                    "invisible_to_user": false
+                  },
+                  {
+                    "key": "infants",
+                    "value_type": "integer",
+                    "in_array": false,
+                    "value": 0,
+                    "delete": false,
+                    "invisible_to_user": false
+                  }
+                ],
+                "place_id": "ChIJ1zLGsk45J5URRscEagtVvIE",
+                "query": "Florianópolis - SC",
+                "refinement_paths": [
+                  "/experiences"
+                ],
+                "refinement_path": "/experiences",
+                "tab_id": "experience_tab",
+                "reset_filters": false,
+                "reset_keys": []
+              },
+              "suggestion_type": "RECENT_SEARCH",
+              "vertical_type": "experiences",
+              "display_name": "Florianópolis · Experiências",
+              "sub_title": "",
+              "metadata": {
+                "location_only_result": false,
+                "airmoji": "description_clock"
+              },
+              "location": {},
+              "refinements": [],
+              "poi_list": [],
+              "pdp_details": {},
+              "site_nav_details": {},
+              "highlights": []
+            }
+          ],
+          "display_type": "ROW"
+        }
+      ],
+      "show_nearby": false,
+      "metadata": {
+        "request_id": "99116310285e460d8ae33d934181d21f"
+      },
+      "experiment_data": {
+        "name": "tp_autosuggest_web_nearby_location_suggestions_v1",
+        "force_in_trebuchet_name": "tp_autosuggest_location_recommendations_force_v1",
+        "control_metadata": {
+          "name": "control"
+        },
+        "treatment_metadata": [
+          {
+            "name": "treatment"
+          }
+        ],
+        "treatment_name": "treatment_unknown"
+      }
+    },
+    "parent_administrative_area": {},
+    "calendar_metadata": {}
+  },
+  "layout": {
+    "desktop_layout": "DOUBLE_TWO_THRIDS_CONTENT",
+    "desktop_map_toggle": {
+      "is_map_visible": false,
+      "is_toggle_visible": true
+    },
+    "mobile_map_toggle": {
+      "is_map_visible": false,
+      "is_toggle_visible": true
+    },
+    "fetch_more_mode": "INFINITE_SCROLL"
+  }
+}
