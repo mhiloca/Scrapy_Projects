@@ -2,7 +2,7 @@
 import scrapy
 # from scrapy.shell import inspect_response
 # from scrapy.utils.response import open_in_browser
-# import logging
+
 
 
 class CountriesSpider(scrapy.Spider):

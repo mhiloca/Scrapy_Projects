@@ -17,5 +17,6 @@ class GdpDebtSpider(scrapy.Spider):
             yield {
                 'country_name': name,
                 'gdp_debt': gdp_debt,
-                'population': population
+                'population': population,
+                'user_agent': response.request.headers.get('User-Agent').decode('utf-8')
             }
